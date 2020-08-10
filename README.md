@@ -7,7 +7,7 @@
 Himeyuri came about as an idea from *TwinShadow*/*TwinDragon* as a mascot for the Celestial Fox Game Streams and acts as the Discord Bot for the Discord server. If you'd like to join it, feel free to click the Discord button at the top!
 
 ## Repository?
-*Himeyuri* is based on [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot), an open source Discord bot repleased under GPLv3 and is hosted by *TwinShadow* as it's own instance. It is a versatile bot, and this repository will be used to house information regarding the bot, what it can do, and possible features anyone would like to see.
+*Himeyuri* is based on [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot), an open source Discord bot released under GPLv3 and is hosted by *TwinShadow* as it's own instance. It is a versatile bot, and this repository will be used to house information regarding the bot, what it can do, and possible features anyone would like to see.
 
 The main purpose is to keep track of various little informational bits of pieces for embeds that you see on the Discord server, be it grammar issues, new embeds, and small little glitches that may arise.
 
