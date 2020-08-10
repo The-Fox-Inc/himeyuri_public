@@ -12,7 +12,9 @@ Himeyuri came about as an idea from *TwinShadow*/*TwinDragon* as a mascot for th
 The main purpose is to keep track of various little informational bits of pieces for embeds that you see on the Discord server, be it grammar issues, new embeds, and small little glitches that may arise.
 
 ## Commands
-You can find her commands on this lovely dashboard made by *Neuro Assassin*: [Himeyuri's Dashboard](https://linkhere.com) **NOTE:** This link does not work as the dashboard is not public as of yet.
+You can find her commands on this lovely dashboard made by *Neuro Assassin*: [Himeyuri's Dashboard](https://linkhere.com)
+
+**NOTE:** The link does not work as the dashboard is not public as of yet.
 
 ## Problems / Issues
 Should any problem arise, feel free to reach out to TwinShadow on Discord, even in the #general channel is fine. If you're comfortable with GitHub, you're also welcome to create an [Issue Ticket](https://github.com/The-Fox-Inc/himeyuri_public/issues/new/choose) using one of the templates that pertains to the problem.
@@ -22,7 +24,7 @@ Should any problem arise, feel free to reach out to TwinShadow on Discord, even 
 | Name | Role
 | --- | --- |
 | **TwinShadow** / **TwinDragon** | Fox Streamer
-| **KitsuneArt96 | Artist
+| **KitsuneArt96** | Artist
 
 Huge thanks for every art piece done by Katey, and you can catch her art streams over here on [Twitch.tv](https://twitch.tv/kitsuneart96), so be sure to check her out.
 
