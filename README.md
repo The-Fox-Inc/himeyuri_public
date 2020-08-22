@@ -12,7 +12,7 @@ Himeyuri came about as an idea from *TwinShadow*/*TwinDragon* as a mascot for th
 The main purpose is to keep track of various little informational bits of pieces for embeds that you see on the Discord server, be it grammar issues, new embeds, and small little glitches that may arise.
 
 ## Commands
-You can find her commands on this lovely dashboard made by *Neuro Assassin*: [Himeyuri's Dashboard](https://linkhere.com)
+You can find her commands on this lovely dashboard made by *Neuro Assassin*: [Himeyuri's Dashboard](https://dash.shadowhime.net)
 
 **NOTE:** The link does not work as the dashboard is not public as of yet.
 
