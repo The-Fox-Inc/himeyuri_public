@@ -14,8 +14,6 @@ The main purpose is to keep track of various little informational bits of pieces
 ## Commands
 You can find her commands on this lovely dashboard made by *Neuro Assassin*: [Himeyuri's Dashboard](https://dash.shadowhime.net)
 
-**NOTE:** The link does not work as the dashboard is not public as of yet.
-
 ## Problems / Issues
 Should any problem arise, feel free to reach out to TwinShadow on Discord, even in the #general channel is fine. If you're comfortable with GitHub, you're also welcome to create an [Issue Ticket](https://github.com/The-Fox-Inc/himeyuri_public/issues/new/choose) using one of the templates that pertains to the problem.
 
