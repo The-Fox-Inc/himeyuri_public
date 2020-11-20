@@ -1,13 +1,14 @@
 # Himeyuri
-[![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-V3-red)](https://github.com/Cog-Creators/Red-DiscordBot)
-![Discord](https://img.shields.io/discord/723321617140154409?color=7289da&label=Celestial%20Fox&logo=Discord&style=plastic)
-[![Twitch Status](https://img.shields.io/twitch/status/TwinShadow_SH?color=6441a5&label=TwinShadow_SH&logo=Twitch&style=plastic)](https://twitch.tv/TwinShadow_SH)
+[![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-V3-red)][redbot]
+[![Discord](https://img.shields.io/discord/723321617140154409?color=7289da&label=Celestial%20Fox&logo=Discord&style=plastic)][discord]
+[![YouTube](https://img.shields.io/static/v1?label=TwinShadow_Fox&color=A30000&message=YouTube&logo=YouTube&logoColor=FF0000&style=plastic)][youtube]
+[![Twitch Status](https://img.shields.io/twitch/status/TwinShadow_SH?color=6441a5&label=TwinShadow_SH&logo=Twitch&style=plastic)][twitch]
 
 ## Little History
 Himeyuri came about as an idea from *TwinShadow*/*TwinDragon* as a mascot for the Celestial Fox Game Streams and acts as the Discord Bot for the Discord server. If you'd like to join it, feel free to click the Discord button at the top!
 
 ## Repository?
-*Himeyuri* is based on [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot), an open source Discord bot released under GPLv3 and is hosted by *TwinShadow* as it's own instance. It is a versatile bot, and this repository will be used to house information regarding the bot, what it can do, and possible features anyone would like to see.
+*Himeyuri* is based on [Red-DiscordBot][redbot], an open source Discord bot released under GPLv3 and is hosted by *TwinShadow* as it's own instance. It is a versatile bot, and this repository will be used to house information regarding the bot, what it can do, and possible features anyone would like to see.
 
 The main purpose is to keep track of various little informational bits of pieces for embeds that you see on the Discord server, be it grammar issues, new embeds, and small little glitches that may arise.
 
@@ -27,3 +28,8 @@ Should any problem arise, feel free to reach out to TwinShadow on Discord, even 
 Huge thanks for every art piece done by Katey, and you can catch her art streams over here on [Twitch.tv](https://twitch.tv/kitsuneart96), so be sure to check her out.
 
 Also thanks to any of my friends who helped me bounce ideas around when I was bored and all that.
+
+[redbot]: https://github.com/Cog-Creators/Red-DiscordBot
+[youtube]: https://youtube.com/c/TwinShadow_Fox
+[twitch]: https://twitch.tv/TwinShadow_SH
+[discord]: https://discord.io/celestialfox
